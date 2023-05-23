@@ -1,5 +1,3 @@
-# jfu299.github.io
-
 <!DOCTYPE html>
 <html>
 <body>
